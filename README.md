@@ -19,7 +19,7 @@ A space is activated by any means in which you land on it.
 | :-:| :-: | :-: |
 | Return to start | Free random item | Surroundings |
 | Suffer with friends| +3 gold | Tracker |
-| Location revealed or Roll Again| x2 gold |Expert Tracker |
+| Location revealed <br /> or <br /> Roll Again| x2 gold |Expert Tracker |
 | +2 spins | Bad wheel | Clone |
 | -5 Gold | +1 move | Lucky Survivalist |
 | Board shift | +5 gold | Teleport Player |
@@ -29,61 +29,41 @@ A space is activated by any means in which you land on it.
 
 
 ## Bad
-### Return to start
-Returns you to tile #0
-### Suffer with friends
-Spin again and choose someone else who must also spin
-### Give away 3 gold
-Choose a player to give 3 gold
-### Location is revealed or roll again
-If Seeker, roll again. If Hider, then the seeker is given the path to you
-
-e.g. Up - Up - Diagonal Left - Left
-### Board shift
-Up to 4 connections between tiles change
-### +2 spins
-Spin two more times
-### -5 Gold
-Choose a player to give 5 gold
+| Effect | Description |
+| :-: | :-: |
+| Return to start | Returns you to tile #0 |
+| Suffer with friends | Spin again <br /> + <br /> Choose someone to spin |
+| Give away 3 gold | Choose a player to give 3 gold |
+| Location is revealed or roll again | Shortest path revealed to Seeker <br /> (e.g. Up - Up - Diagonal Left - Left) <br /><br /> (If Seeker, roll again) |
+| Board shift | Up to 4 connections between tiles change |
+| +2 spins | Spin two more times |
+| -5 Gold | Choose a player to give 5 go| 
 
 ## Good
-### Free random item
-Obtain one random shop item for 0 gold
-### +3 gold
-Obtain +3 gold
-### x2 gold
-Multiply gold by 2, if negative remove half of the debt
-### Bad wheel
-Spin the bad wheel
-### +1 move
-Gain +1 move
-### +5 gold
-Obtain +5 gold
+| Effect | Description |
+| :-: | :-: |
+| Free random item | Obtain one random shop <br /> (costs 0 gold) |
+| +3 gold | Obtain +3 gold |
+| x2 gold | Multiply total gold by 2 <br /> or <br /> Halve debt |
+| Bad wheel | Spin the bad wheel |
+| +1 move | Gain +1 move |
+| +5 gold | Obtain +5 gold |
 
 ## Neutral
 Nothing happens
 
 ## Shop
-### Surroundings
-Every connecting tile will be revealed, as well as people on those tiles
-### Tracker
-The first step on the fastest path to the closest other player will be revealed to you. As well as the name of the player
-### Expert Tracker
-Choose a player to have their location known relative to you
-### Clone
-Creates clone that stays on a tile.
-### Lucky Survivalist
-50% Chance to have all connecting tiles revealed, as well as people on those tiles.
-### Teleport Player
-Choose player to teleport somewhere random on the map
-### Teleport Yourself
-Teleport yourself adjacent another random player
-### +1 move
-Gain +1 move
-### Trap
-Set trap that steals 3 gold from the next person to land on it, the trap disappears
-
-If you land on your own trap it disappears, but you lose no gold
+| Effect | Description |
+| :-: | :-: |
+| Surroundings | Every connecting tile will be revealed, <br /> as well as people on those tiles |
+| Tracker | Direction of the closest other player will be revealed to you. <br /> As well as the name of the player |
+| Expert Tracker | Choose a player to have their location known relative to you |
+| Clone | Creates clone that stays on a tile. |
+| Lucky Survivalist | 50% Chance to have all connecting tiles revealed, <br /> as well as people on those tiles. |
+| Teleport Player | Choose player to teleport somewhere random on the map |
+| Teleport Yourself | Teleport yourself adjacent another random player |
+| +1 move | Gain +1 move |
+| Trap | Steals 3 gold from the next person to land on it, trap disappears <br /> <br />If you land on your own trap, it disappears, but you lose no gold |
 
 ## Teleport
 Teleports a player to a random spot on the map
