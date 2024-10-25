@@ -1,0 +1,22 @@
+RULES:
+-----------------------------------------------------------------------------------------
+
+Each player begins on a random space, but they can't see the map.
+
+One person is selected to be the first 'seeker'.
+
+Determine turn order, seeker always starts.
+    Turn order can be either random or you decide.
+
+The seekers goal is to tag another player.
+    Once a player has been tagged they are now the seeker and teleported to a random space.
+
+One round is completed once each person gets a turn.
+    After each round, successful hiders get +1 hiding point.
+
+Spaces can either be good, bad, neutral, shop, and teleport.
+    A space is activated by any means in which you land on it.
+
+First person to get to 25 hiding points wins.
+
+-----------------------------------------------------------------------------------------
